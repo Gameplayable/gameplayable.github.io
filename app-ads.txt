@@ -1,1 +1,6 @@
-google.com, pub-2889362432485180, DIRECT, f08c47fec0942fa0
+google.com, pub-4737436342233455, DIRECT, f08c47fec0942fa0 
+google.com, pub-4737436342233455, RESELLER, f08c47fec0942fa0  
+facebook.com, 1000001, RESELLER, c3e20eee3f780d68
+inmobi.com, c1e6d3502da64ebaa3ad0e4a4be15f11, RESELLER, 83e75a7ae333ca9d
+ironsrc.com, 1234, DIRECT, 5678
+adcolony.com, 1efc6603710003ea, RESELLER, 1ad675c9de6b5176
